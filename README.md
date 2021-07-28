@@ -1,4 +1,4 @@
-## Bmi Calculator Using Sheets
+## BMI Calculator Using Sheets
 
 ## INFO:
 
