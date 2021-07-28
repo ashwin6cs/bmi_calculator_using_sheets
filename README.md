@@ -8,11 +8,11 @@
 
 ## REQUIREMENTS:
 
-* pip install streamlit
+* pip install [streamlit](https://pypi.org/project/streamlit/)
 
-* pip install gspread
+* pip install [gspread](https://pypi.org/project/gspread/)
 
-* pip install pytz
+* pip install [pytz](https://pypi.org/project/pytz/)
 
-* pip install datetime
+* pip install [datetime](https://pypi.org/project/DateTime/)
 
